@@ -1,0 +1,35 @@
+{
+  "name": "js-readfile",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "node_modules/.bin/jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adnanmayo/node-js-readfile.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adnanmayo/node-js-readfile/issues"
+  },
+  "homepage": "https://github.com/adnanmayo/node-js-readfile#readme",
+  "dependencies": {
+    "@types/node": "^15.12.4"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.14.6",
+    "@babel/preset-env": "^7.14.7",
+    "@babel/preset-typescript": "^7.14.5",
+    "@types/jest": "^26.0.23",
+    "babel-jest": "^27.0.5",
+    "jest": "^27.0.5",
+    "ts-jest": "^27.0.3",
+    "typescript": "^4.3.4"
+  }
+}
